@@ -1,10 +1,34 @@
-- 👋 Hi, I’m @Ace-9136
-- 👀 I’m interested in Programming
-- 🌱 I’m currently learning IT Engineering First year
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Sahil Bagate
 
-<!---
-Ace-9136/Ace-9136 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About Me
+I am a third-year information technology student at FR CRIT, majoring in software engineering. Here are some details about me:
+
+## Projects
+I have completed several personal projects using web development technologies. Some of my notable projects include:
+
+- Simple to-do list app
+- Trello Clone
+- Candlestick Plotter
+- File Encryption and Decryption app
+
+## Skills
+Here are my key skills:
+
+- Programming Languages:
+  - JavaScript
+  - Python
+  - Java
+- Web Development Frameworks:
+  - React
+- Other Technologies:
+  - HTML
+  - CSS
+  - Git
+  - GitHub
+
+## Work Ethic
+- Hard worker and eager to learn new things.
+- Team player and can contribute effectively to a team.
+
+Feel free to reach out to me for any collaboration or further information.\
+Email: sahilbagate8108@gmail.com
