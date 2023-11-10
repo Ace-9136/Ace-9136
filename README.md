@@ -20,6 +20,8 @@ Here are my key skills:
   - Java
 - Web Development Frameworks:
   - React
+  - Django
+  - Flask
 - Other Technologies:
   - HTML
   - CSS
