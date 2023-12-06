@@ -10,6 +10,7 @@ I have completed several personal projects using web development technologies. S
 - Trello Clone
 - Candlestick Plotter
 - File Encryption and Decryption app
+- Buddy pet recovery and adoption centre
 
 ## Skills
 Here are my key skills:
