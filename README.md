@@ -11,16 +11,20 @@ I have completed several personal projects using web development technologies. S
 - Candlestick Plotter
 - File Encryption and Decryption app
 - Buddy pet recovery and adoption centre
+- Realtime Code Editor
 
 ## Skills
 Here are my key skills:
 
 - Programming Languages:
   - JavaScript
+  - TypeScript
   - Python
   - Java
 - Web Development Frameworks:
   - React
+  - Express
+  - NextJs
   - Django
   - Flask
 - Other Technologies:
