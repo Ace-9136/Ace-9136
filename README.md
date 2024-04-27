@@ -6,12 +6,12 @@ I am a third-year information technology student at FR CRIT, majoring in softwar
 ## Projects
 I have completed several personal projects using web development technologies. Some of my notable projects include:
 
-- Simple to-do list app
-- Trello Clone
 - Candlestick Plotter
 - File Encryption and Decryption app
+- Trello Clone
 - Buddy pet recovery and adoption centre
 - Realtime Code Editor
+- Bluetooth Controlled WheelChair
 
 ## Skills
 Here are my key skills:
